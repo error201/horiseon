@@ -14,16 +14,16 @@ I used this project to assess my current html and css skills. It uses semantic t
 ## Installation
 
 To install:
-
+```
 git pull git@github.com:error201/horiseon.git
+```
 
 ## Usage
 
 Click the links and watch the magic happen.
 
-    ```md
-    ![website screenshot](./assets/images/Screenshot.png)
-    ```
+![website screenshot](./assets/images/Screenshot.png)
+
 
 ## License
 
